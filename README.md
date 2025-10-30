@@ -6,7 +6,7 @@ Tap, click, or press keyboard keys to trigger smooth drum sounds in real time �
 ---
 
 ## 🚀 Live Demo
-🎧 [Try It Here](https://Washiy-Codes.github.io/drum-machine)
+🎧 [Try It Here](https://washiy-codes.github.io/Drum-Machine/)
 
 ---
 
