@@ -19,6 +19,16 @@
 }
 body{
     background-color: #8d8d8d;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
     color: var(--white);
     font-family: Russo One;
     user-select: none;
