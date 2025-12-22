@@ -4,6 +4,11 @@ A fully interactive **Drum Machine** built with **React** and **Vite** by [Washi
 Tap, click, or press keyboard keys to trigger smooth drum sounds in real time — delivering an engaging and dynamic musical experience right in your browser.
 
 ---
+## 📸 App Screenshot
+
+![Drum Machine App](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJAeip4BYKMJp6F9SOZyZXGAVoOUncwRhJQ&s)
+
+---
 
 ## 🚀 Live Demo
 🎧 [Try It Here](https://washiy-codes.github.io/Drum-Machine/)
